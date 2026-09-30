@@ -1,0 +1,7 @@
+[
+  {"id": 1, "mssv": "2412111020", "ho_ten": "Khúc Thị Hảo", "lop": "CT2801", "diem": 9.5},
+  {"id": 2, "mssv": "2412111021", "ho_ten": "Phạm Như Quỳnh", "lop": "CT2801", "diem": 8.5},
+  {"id": 3, "mssv": "2412111022", "ho_ten": "Trần Hoàng Quyền", "lop": "CT2802", "diem": 7.5},
+  {"id": 4, "mssv": "2412111023", "ho_ten": "Trần Thị Kiều Linh", "lop": "CT2801", "diem": 8.0},
+  {"id": 5, "mssv": "2412111024", "ho_ten": "Trương Thành Trung", "lop": "CT2802", "diem": 9.0}
+]
